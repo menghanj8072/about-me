@@ -7,17 +7,23 @@ MengHan Jiang
 Menghanj8072@hstat.org
 
 ### School:
-High School of Telecommunication Arts and Technology
+**High School of Telecommunication Arts and Technology**
 
 ### Bio:
 Currently in highschool. Sometimes likes to draw when having nothing to do.
 
 #### Schedule:
-1. Chemistry
-2. Gym
-3. Lunch
-4. English
-5. Math
-6. SEP10
-7. Global History
-8. Spanish
+**1. _Chemistry_**
+
+**2. _Gym_**
+
+**3. _Lunch_**
+
+**4. _English_**
+
+**5. _Math_**
+
+**6. _SEP10_**
+
+**7. _Global History_**
+**8. _Spanish_**
