@@ -6,7 +6,7 @@ MengHan Jiang
 
 ## Email
 ---
-Menghanj8072@hstat.org
+*  Menghanj8072@hstat.org
 
 ## School
 ---
@@ -14,7 +14,7 @@ Menghanj8072@hstat.org
 
 ## Bio
 ---
-Currently in highschool. Sometimes likes to draw when having nothing to do.
+*  Currently in highschool. Sometimes likes to draw when having nothing to do.
 
 ### Schedule
 ---
