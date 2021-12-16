@@ -10,7 +10,7 @@
 
 ## School
 
-[**High School of Telecommunication Arts and Technology**](www.hstat.org)
+[**High School of Telecommunication Arts and Technology**](https://www.hstat.org)
 
 ## Bio
 
