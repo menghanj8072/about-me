@@ -6,7 +6,7 @@ Email: Menghanj8072@hstat.org
 
 School: High School of Telecommunication Arts and Technology
 
-Bio: Moved from China to USA. Begin learning english and sometimes likes to draw when having nothing to do.
+Bio: Currently in highschool. Sometimes likes to draw when having nothing to do.
 
 Schedule: 
 1. Chemistry
