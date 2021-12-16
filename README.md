@@ -1,22 +1,22 @@
 # about-me
 
-### Name
+## Name
 ---
 MengHan Jiang
 
-### Email
+## Email
 ---
 Menghanj8072@hstat.org
 
-### School
+## School
 ---
 **High School of Telecommunication Arts and Technology**
 
-### Bio
+## Bio
 ---
 Currently in highschool. Sometimes likes to draw when having nothing to do.
 
-#### Schedule
+### Schedule
 ---
 **1. _Chemistry_**
 
